@@ -1,0 +1,101 @@
+body{
+
+	background-color: #121E29;
+}
+.title-main{
+	color: white;
+	text-align: center;
+	font-size: 2em;
+	font-family: "arial";
+	background-color: #272854;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    font-size: 2em;
+    font-family: "arial";
+    background-color: #174A78;
+}
+
+h3{
+	 color: white;
+	 text-align: center;
+	 font-size: 1em;
+}
+
+h4{
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+    font-family: "arial";
+    background-color: #593F87;
+
+}
+.sinopsis{
+    background-color: darkslateblue;
+    text-align: center;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+    font-family: "arial";
+    background-color: #593F87;
+
+}
+.barraMenu{
+    background-color: black;
+    border: 1px solid black;
+    font-size: 1.3em;
+
+ }
+
+ a{
+    text-decoration: none;
+    color: white;
+ }
+
+.btn{
+	background-color: black;
+    text-align: center;
+    padding: 15px 20px;
+    margin: 10px 20px;
+    background-color: #skyblue;
+    border: 1px solid skyblue;
+    display: inline-block;
+    border-top: 3px solid transparent;
+    border-bottom: 3px solid transparent;
+}
+
+.row{
+	width: 100%;
+	display: table;
+	background-color: gray;
+}
+.movie{
+    background-color: #0F1922;
+    margin: 70px;
+}
+p{
+    background-color: darkslateblue;
+    text-align: center;
+    color: white;
+}
+
+img{
+    height: 270px;
+    widows: 150px;
+}
+.posterPelicula{
+    background-color: #d3d3d3;
+    height: 270px;
+    width: 150px;
+    margin: 50px;
+    display: inline-block;
+}
+
+/*
+.movie-info{
+    height: 470px;
+    widows: 650px;
+}
+*/
